@@ -7,7 +7,7 @@
 </a>
 
 <p>
-  <i>Decentralized AI Systems | Blockchain Infrastructure | Smart Contracts | Cross-Chain Protocols</i>
+  <i>Decentralized AI Systems | Blockchain Infrastructure | Smart Contracts | Cross-Chain Solutions</i>
 </p>
 
 <p>
