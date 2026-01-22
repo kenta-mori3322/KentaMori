@@ -7,7 +7,7 @@
 </a>
 
 <p>
-  <i>Blockchain Infrastructure | Smart Contracts | Cross-Chain Protocols | Decentralized AI Systems</i>
+  <i>Decentralized AI Systems | Blockchain Infrastructure | Smart Contracts | Cross-Chain Protocols</i>
 </p>
 
 <p>
@@ -28,18 +28,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Blockchain Engineer** with 5+ years of experience specializing in **Rust** and **Go** systems development. I have deep expertise in the Ethereum ecosystem, smart contracts (EVM/WASM), systems programming, performance optimization, and high-throughput distributed systems. I'm currently at a turning point in my career, expanding into **decentralized AI system development**, combining my blockchain infrastructure expertise with cutting-edge AI/ML technologies to build the next generation of decentralized intelligent systems.
-
----
-
-### 💼 Experience
-
-| Role | Company | Timeline | Impact |
-| :--- | :--- | :--- | :--- |
-| **Blockchain Developer** | **DevsDevs** | *Oct 2025 - Present* | Developed Layer 1 blockchain solution for Islamic coin issuance with liquid vesting features. Upgraded Cosmos SDK to v0.53.x and IBC to v10.x, enhancing cross-chain interoperability. |
-| **Blockchain Developer** | **Freelance** | *July 2025 - Present* | Architected Layer 1 solutions and DeFi trading infrastructure for perpetual and leverage lending platforms on Solana and Base. Built high-performance trading bots processing thousands of transactions daily. |
-| **Blockchain Developer** | **Hexmount, UK** | *July 2022 - July 2025* | Led development of cross-chain and privacy-protected blockchain solutions. Architected L1 blockchain with MPC protocol achieving **99.9% uptime** for cross-chain state synchronization. |
-| **Web2, Web3 Developer** | **Freelancer.com, Australia** | *Jun 2020 – Jun 2022* | Delivered full-stack blockchain applications. Developed and deployed L1 blockchain Melechain with custom modules, serving thousands of users. Improved code maintainability by **40%** and reduced deployment time by **50%**. |
+I am a **ML/Blockchain Engineer** with 5+ years of experience specializing in **Go** and **Rust** systems development. I have deep expertise in the Ethereum & Cosmos SDK ecosystems, smart contracts (EVM/WASM), systems programming, performance optimization, and high-throughput distributed systems. I'm currently at a turning point in my career, expanding into **Decentralized AI system development**, combining my blockchain infrastructure expertise with cutting-edge AI/ML technologies to build the next generation of decentralized intelligent systems.
 
 ---
 
@@ -54,6 +43,10 @@ I am a **Blockchain Engineer** with 5+ years of experience specializing in **Rus
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 
 <br><b>Blockchain Frameworks & Protocols</b><br>
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
@@ -62,6 +55,13 @@ I am a **Blockchain Engineer** with 5+ years of experience specializing in **Rus
 <img src="https://img.shields.io/badge/Base-0052FF?style=for-the-badge&logo=base&logoColor=white" />
 <img src="https://img.shields.io/badge/IBC-2E3148?style=for-the-badge&logo=cosmos&logoColor=white" />
 <img src="https://img.shields.io/badge/CometBFT-2E3148?style=for-the-badge&logo=cosmos&logoColor=white" />
+
+<br><b>AI, Computer Vision & Frameworks</b><br>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 
 <br><b>Smart Contracts & Web3</b><br>
 <img src="https://img.shields.io/badge/EVM-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
@@ -77,6 +77,8 @@ I am a **Blockchain Engineer** with 5+ years of experience specializing in **Rus
 
 <br><b>Infrastructure & DevOps</b><br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white" />
 <img src="https://img.shields.io/badge/Protocol_Buffers-000000?style=for-the-badge&logo=protobuf&logoColor=white" />
 <img src="https://img.shields.io/badge/libp2p-000000?style=for-the-badge" />
@@ -93,10 +95,12 @@ I am a **Blockchain Engineer** with 5+ years of experience specializing in **Rus
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Opensource Contributions
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| **Deepfake Detection** | End-to-end pipeline achieving **91.2% accuracy**. Deployed as a scalable REST API with Grad-CAM explainability. | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> |
+| **Video Anomaly Detection** | Production-grade anomaly detection using Autoencoders (**92.5% precision**) with real-time stream analysis. | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/MLOps-000000?style=flat-square"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/> |
 | **Crossflow Network** | Architected L1 blockchain with MPC protocol for cross-chain lending, achieving **99.9% uptime** and handling millions in TVL with automated liquidation mechanisms. | <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/Cosmos_SDK-2E3148?style=flat-square&logo=cosmos&logoColor=white"/> <img src="https://img.shields.io/badge/MPC-000000?style=flat-square"/> |
 | **Inco Network** | Developed privacy-protected L1 blockchain with FHEVM integration for fully homomorphic encryption, enabling private computation on blockchain with Intel SGX remote attestation. | <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/> <img src="https://img.shields.io/badge/Cosmos_SDK-2E3148?style=flat-square&logo=cosmos&logoColor=white"/> <img src="https://img.shields.io/badge/FHE-000000?style=flat-square"/> |
 | **DeFi Trading Infrastructure** | Built high-performance launch pad with sniping functionality and copy trading bots on Solana and Base, optimizing transaction execution using JITO bundles with **40% latency reduction**. | <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/> <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white"/> <img src="https://img.shields.io/badge/Anchor-9945FF?style=flat-square&logo=solana&logoColor=white"/> |
