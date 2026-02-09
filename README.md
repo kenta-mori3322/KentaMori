@@ -1,5 +1,6 @@
 <div align="center">
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xmihirsahu&label=Profile%20views&color=0e75b6&style=flat" alt="0xmihirsahu" /> </p>
+  
 # Hi there, I'm Kenta Mori 👋
 
 <a href="https://git.io/typing-svg">
@@ -44,18 +45,6 @@ I am a **Blockchain/AI Engineer** with 5+ years of experience specializing in **
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=KentaMori115&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-  <br><br>
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=KentaMori115&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=KentaMori115&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=c0caf5&hide_border=true" alt="Activity Graph"/>
-</div>
-
----
-
 ### 🎓 Education
 
 **Osaka Institute of Technology**  
@@ -69,4 +58,14 @@ I am a **Blockchain/AI Engineer** with 5+ years of experience specializing in **
 - AI/ML integration with blockchain infrastructure
 - Federated learning and privacy-preserving AI on blockchain
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xmihirsahu&label=Profile%20views&color=0e75b6&style=flat" alt="0xmihirsahu" /> </p>
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=KentaMori115&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <br><br>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=KentaMori115&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=KentaMori115&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=c0caf5&hide_border=true" alt="Activity Graph"/>
+</div>
+
+---
