@@ -26,7 +26,13 @@
 
 ### 👨‍💻 About Me
 
-I am a research and developer with 5+ years of experience with building decentralized systems specializing in Go and Rust languages. I have deep expertise in the Ethereum and Cosmos SDK ecosystems, smart contracts (EVM/WASM), systems programming, performance optimization, and high-throughput distributed systems. I am also a specialized expert in Elliptic Curve Cryptography (ECC), with over ten years of focused research and engineering in performance optimization for elliptic curve computations. My work centers on minimizing execution latency and computational cost in large-scale cryptographic operations, especially scalar multiplication and finite field arithmetic over secp256k1 and related curves. A major achievement in this area is the design and implementation of an ultra–high-performance Bitcoin vanity address generation system, engineered for massively parallel elliptic curve computations and large-scale search for pattern-constrained public addresses. I am currently expanding into Decentralized AI system development, combining my blockchain infrastructure and cryptographic optimization background with cutting-edge AI/ML technologies to build the next generation of decentralized intelligent systems.
+I am a research and developer with 5+ years of experience with building decentralized systems specializing in Go and Rust languages. I have deep expertise in the Ethereum and Cosmos SDK ecosystems, smart contracts (EVM/WASM), systems programming, performance optimization, and high-throughput distributed systems. 
+
+I am also a specialized expert in Elliptic Curve Cryptography (ECC), with over ten years of focused research and engineering in performance optimization for elliptic curve computations. My work centers on minimizing execution latency and computational cost in large-scale cryptographic operations, especially scalar multiplication and finite field arithmetic over secp256k1 and related curves. 
+
+A major achievement in this area is the design and implementation of an ultra–high-performance Bitcoin vanity address generation system, engineered for massively parallel elliptic curve computations and large-scale search for pattern-constrained public addresses. 
+
+I am currently expanding into Decentralized AI system development, combining my blockchain infrastructure and cryptographic optimization background with cutting-edge AI/ML technologies to build the next generation of decentralized intelligent systems.
 
 ---
 
