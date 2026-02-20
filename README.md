@@ -8,7 +8,7 @@
 </a>
 
 <p>
-  <i>Decentralized AI Systems | Blockchain Infrastructure | Smart Contracts | Cross-Chain Solutions</i>
+  <i>Decentralized AI Systems | Blockchain Infrastructure | Multi-Chain Solutions | BTC vanity generation</i>
 </p>
 
 <p>
